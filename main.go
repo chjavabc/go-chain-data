@@ -1,7 +1,5 @@
 package main
 
-//获取链上数据 https://learnblockchain.cn/article/6307
-
 import (
 	"go-chain-data/config"
 	"go-chain-data/global"
